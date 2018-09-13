@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>sn_ml</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_122388_sn_ml_sn_ml</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-13 04:02:21</sys_created_on>
+        <sys_id>aded86414f2023006ce98df07310c752</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_ml</sys_name>
+        <sys_package display_value="SN_ML" source="x_122388_sn_ml">eaddc2414f2023006ce98df07310c7ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN_ML">eaddc2414f2023006ce98df07310c7ab</sys_scope>
+        <sys_update_name>sys_db_object_aded86414f2023006ce98df07310c752</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-13 04:02:21</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="x_122388_sn_ml.sn_ml_user" name="x_122388_sn_ml.sn_ml_user">3a1e06414f2023006ce98df07310c7d5</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

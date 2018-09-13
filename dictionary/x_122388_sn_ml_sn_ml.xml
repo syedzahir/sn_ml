@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="sn_ml" max_length="40" name="x_122388_sn_ml_sn_ml" type="collection">
+        <element label="City" max_length="500" name="city" type="string"/>
+        <element label="IP address" max_length="500" name="ip_address" type="string"/>
+    </element>
+</database>
