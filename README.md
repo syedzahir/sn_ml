@@ -1,10 +1,14 @@
 Smart Data Analytics to Predict ITSM Incident Task category based on Short description. 
 
 A.	Concept
+
 Incident Categorization
+
 •	Use of Machine learning model to predict the categories using incident description
 •	Use the AWS Lambda to create a machine learning microservice and have the endpoint triggered by service-Now Rest Message functionality.
 •	Retrieve the Rest Message results through workflow and update the records.
+
+
 
 Machine Learning –Text Classification Task
 •	Data collection
@@ -13,6 +17,7 @@ Machine Learning –Text Classification Task
 •	Generating TF-IDF scores of terms
 •	Using Classifier of your choice
 •	Predictions / Accuracy scores
+
 
 Approache to handle imbalanced datasets
 -	Re-sampling techniques
